@@ -1,4 +1,4 @@
-# TP6 – IoT System with MQTT + Raspberry Pico W + DHT22 + LCD + + Led + PIR + Cloud Integration
+# TP6 – IoT System with MQTT + Raspberry Pico W + DHT22 + LCD + Led + PIR + Cloud Integration
 
 ## Objective
 
